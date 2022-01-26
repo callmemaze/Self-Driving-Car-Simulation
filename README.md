@@ -18,3 +18,19 @@ For gathering the data’s, I have used Udacity Self Driving Car Simulator. It w
 
 ## [Udacity Self Driving Simulator] (https://github.com/udacity/self-driving-car-sim) 
 
+![image](https://user-images.githubusercontent.com/70954565/151152814-182fba8e-7380-4cc1-b569-05f1158d2147.png)
+
+
+## Run the model
+
+Start up [the Udacity self-driving simulator](https://github.com/udacity/self-driving-car-sim), choose a scene and press the Autonomous Mode button.  Then, run the model as follows:
+
+```python
+python simulation.py ```
+
+## Autonomous Mode (Udacity Dataset based on Udacity Simulator
+
+
+
+
+
