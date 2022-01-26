@@ -30,7 +30,7 @@ Start up [the Udacity self-driving simulator](https://github.com/udacity/self-dr
 ## Autonomous Mode (Udacity Dataset based on Udacity Simulator
 
 
-![Untitled_AdobeCreativeCloudExpress_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/70954565/151163983-c40c4b54-8dc8-4c9d-8fab-582ad5e5a9e0.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/70954565/151164800-a6882e4c-9adf-461c-bb7e-66fb3798985c.gif)
 
 
 
